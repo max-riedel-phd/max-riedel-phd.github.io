@@ -11,27 +11,43 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+* Ph.D in Finance, Goethe University, 2019
+* M.S. in Quantitative Finance, Goethe University
+* B.S. in Mathematics, Goethe University
+* B.S. in Economics and Business Administration, Goethe University
 
 Work experience
 ======
-* Spring 2024: Academic Pages Collaborator
-  * Github University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
+* From 10/2022: Post-Doctoral Researcher
+  * Leibniz Institute for Financial Research SAFE 
+  * Research project: Green Auto Securitization
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* 05/21-11/22: Banking Expert (2022), Quantitative Analyst (2021)
+  * European Stability Mechanism
+  * Duties: Development and implementation of the Common Backstop to the Single Resolution Fund
 
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
-  
+* 05/20-01/22: Research Fellow
+  * Ca' Foscari University of Venice
+  * EU Horizon 2020 project: EeDaPP
+
+* 02/14-09/19: Doctoral Researcher
+  * Leibniz Institute for Financial Research SAFE and Goethe University
+  * Supervisor: Prof. Loriana Pelizzon
+
+* 04/18-05/19: Doctoral Researcher
+  * Ca' Foscari University of Venice
+  * EU Horizon 2020 project: EeMAP
+  * Supervisor: Prof. Monica Billio
+
+* 08/17-12/17: Doctoral Researcher
+  * New York University Stern School of Business
+  * Supervisor: Prof. Marti G. Subrahmanyam
+
+* 01/09-01/14: Working Student
+  * Allianz Global Investors
+  * Duties: Development of investment strategies in the Systematic Equity Portfolio Management division
+
+
 Skills
 ======
 * Skill 1
@@ -59,6 +75,6 @@ Teaching
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
+#Service and leadership
+#======
+#* Currently signed in to 43 different slack teams
