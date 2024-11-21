@@ -14,5 +14,5 @@ My research interests are in financial markets and sustainable finance. I study 
 
 
 You can download my CV and find more info at my     
- Google Scholar,  <a href="https://papers.ssrn.com/sol3/cf_dev/AbsByAuth.cfm?per_id=1773767" target="_blank">SSRN</a> or ORCID profile.
+ <a href="https://scholar.google.com/citations?user=dx2EWbMAAAAJ&hl=de" target="_blank">Google Scholar</a>  ,  <a href="https://papers.ssrn.com/sol3/cf_dev/AbsByAuth.cfm?per_id=1773767" target="_blank">SSRN</a> or <a href="https://orcid.org/0000-0001-5353-2519" target="_blank">ORCID</a> profile.
  
