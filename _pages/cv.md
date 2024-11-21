@@ -50,12 +50,9 @@ Work experience
 
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* Stata, R, Matlab, SQL, SAS, Python
+* English (ﬂuent), German (native), Spanish (intermediate), French (basic)
+
 
 Publications
 ======
@@ -63,11 +60,6 @@ Publications
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
-Talks
-======
-  <ul>{% for post in site.talks reversed %}
-    {% include archive-single-talk-cv.html  %}
-  {% endfor %}</ul>
   
 Teaching
 ======
@@ -75,6 +67,3 @@ Teaching
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
-#Service and leadership
-#======
-#* Currently signed in to 43 different slack teams
