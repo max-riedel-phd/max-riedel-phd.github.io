@@ -7,6 +7,10 @@ redirect_from:
   - /resume
 ---
 
+
+Download <a href="https://scholar.google.com/citations?user=dx2EWbMAAAAJ&hl=de" target="_blank">CV</a>
+
+
 {% include base_path %}
 
 Education
