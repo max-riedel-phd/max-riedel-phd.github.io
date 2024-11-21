@@ -4,7 +4,7 @@ collection: publications
 category: manuscripts
 permalink: /publication/2024-03-01-paper-title-number-1
 excerpt: 'We study in this paper the many implications of the Eurosystem collateral framework for corporate bonds.'
-date: 2024-03-01
+date: 2024-10-01
 venue: 'Journal of Financial Economics'
 slidesurl: #'http://academicpages.github.io/files/slides1.pdf'
 paperurl: 'https://doi.org/10.1016/j.jfineco.2023.103777'
