@@ -8,7 +8,7 @@ redirect_from:
 ---
 
 
-Download <a href="https://scholar.google.com/citations?user=dx2EWbMAAAAJ&hl=de" target="_blank">CV</a>
+Download <a href="files/CV_Max_Riedel_website.pdf" target="_blank">CV</a>
 
 
 {% include base_path %}
