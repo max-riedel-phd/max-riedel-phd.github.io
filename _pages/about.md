@@ -8,7 +8,7 @@ redirect_from:
 ---
 
 
-I am a postdoctoral researcher at the Leibniz Institute for Financial Resaerch SAFE, where I work on the three-year project Green Auto Securitization (GAS).
+I am a postdoctoral researcher at the Leibniz Institute for Financial Research SAFE, where I work on the three-year project Green Auto Securitization (GAS).
 
 My research interests are in financial markets, securitization and sustainable finance. I study empirically both equity and fixed income markets, mainly focusing on Europe. I have published in international finance journals, including <i> The Journal of Financial Economics, Journal of Economic Dynamics and Control, Journal of Banking & Finance.</i>
 
