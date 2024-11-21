@@ -24,7 +24,7 @@ author:
   avatar           : "Max_Riedel4.jpg"
   name             : "Max Riedel"
   pronouns         : # example: "she/her"  
-  bio              : "I am a financial economist with a focus on financial markets, securitization and sustainable finance."
+  bio              : "Financial economist"
   location         : "Frankfurt, Germany"
   employer         : "Leibniz Institute for <br>Financial Research SAFE"
   uri              : "https://safe-frankfurt.de/research/researchers/researchers-details/showauthor/193-riedel.html"
@@ -37,8 +37,8 @@ author:
   orcid            : "https://orcid.org/0000-0001-5353-2519"
   semantic         : # URL
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  researchgate     : # URL
-  scopus           : # URL
+  researchgate     : "https://www.researchgate.net/profile/Max-Riedel"
+  scopus           : "https://www.scopus.com/authid/detail.uri?authorId=57188708125"
 
   # Repositories and software development
   bitbucket        : # Username - Update with your username on the site
